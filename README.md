@@ -1,6 +1,10 @@
-# Goals
+# DIRECTIVES
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.12.
+
+# PROJECT DESCRIPTION
+Attribute directives manipulate the DOM by changing its behaviour and appearance. I have used this attribute directives to apply conditional styles to elements, show or hide elements, and, dynamically change the behaviour of an element based on a changing property, say, make a form field blink red if a user tries to submit the form without filling in that specific form field.
+Structural directives, on the other hand, have been used to create and/or destroy DOM elements. This type of directives actually add or completely remove elements from the DOM unlike some attribute directives like hidden which maintain the DOM as it is.
 
 ## Development server
 
